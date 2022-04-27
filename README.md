@@ -1,6 +1,6 @@
 # TOVTC, here 👋
 
-<img src="https://komarev.com/ghpvc/?username=TOVTC&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=TOVTC&style=flat&color=blue" alt=""/> <a href="https://www.linkedin.com/in/veronicataichito/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ## About Me:
 Aspiring Full-Stack Developer | Healthcare Worker | Mathematics Instructor
@@ -12,7 +12,6 @@ Aspiring Full-Stack Developer | Healthcare Worker | Mathematics Instructor
 * :memo: Looking for: opportunities to work on new and challenging projects - learning by doing has taught me the fastest
 * :question: Ask me about: overly convoluted hypotheticals
 * :sunflower: Fun fact: I like sunflowers, nerd stuff, and punk music (but I'll pretty much listen to anything)
-* <a href="https://www.linkedin.com/in/veronicataichito/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> : Find me on LinkedIn
 
 ## Languages and Tools:
 <div>
