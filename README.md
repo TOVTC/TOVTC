@@ -29,3 +29,5 @@ Aspiring Full-Stack Developer | Healthcare Worker | Mathematics Instructor
 ## My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TOVTC&theme=dark&background=000000)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOVTC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Written with help from [this](https://www.sitepoint.com/github-profile-readme/) article.
