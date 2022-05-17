@@ -7,7 +7,7 @@ Aspiring Full-Stack Developer | Healthcare Worker | Mathematics Instructor
 
 * :stuck_out_tongue_closed_eyes: Pronouns: She/Her/她
 * :computer: Current project: University of Toronto's Coding Bootcamp
-* :mortar_board: Educational background: BSc in mental health from the University of Toronto, studying under their co-op program
+* :mortar_board: Educational background: BSc in psychological and health sciences from the University of Toronto, under their co-op program
 * :office: Work background: primarily in the mental health, non-profit, and healthcare sectors
 * :memo: Looking for: opportunities to work on new and challenging projects - learning by doing has taught me the fastest
 * :question: Ask me about: overly convoluted hypotheticals
@@ -25,6 +25,8 @@ Aspiring Full-Stack Developer | Healthcare Worker | Mathematics Instructor
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" **alt="Sequelize" width="40" height="40"/>
 </div>
 
 ## My Stats:
