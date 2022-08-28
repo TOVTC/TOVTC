@@ -1,12 +1,12 @@
 # TOVTC, here 👋
 
-<img src="https://komarev.com/ghpvc/?username=TOVTC&style=flat&color=blue" alt="Profile Views"/> <a href="https://www.linkedin.com/in/veronicataichito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://www.linkedin.com/in/veronicataichito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ## About Me:
-Aspiring Full-Stack Developer | Medical Laboratory Assistant | Mathematics Instructor
+Full-Stack Developer | Medical Laboratory Assistant | Mathematics Instructor
 
 * :stuck_out_tongue_closed_eyes: Pronouns: She/Her/她
-* :computer: Current project: University of Toronto's Coding Bootcamp
+* :computer: Current project: University of Toronto's Coding Bootcamp - TA
 * :mortar_board: Educational background: BSc in psychological and health sciences from the University of Toronto under their co-op program
 * :office: Work background: primarily in the mental health, non-profit, and healthcare sectors
 * :memo: Looking for: opportunities to work on new and challenging projects - learning by doing has taught me the fastest
