@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/veronicataichito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ## About Me:
-Full-Stack Developer | Medical Laboratory Assistant | Mathematics Instructor
+Full-Stack Developer | Mathematics Instructor | Former Healthcare Worker
 
 * :stuck_out_tongue_closed_eyes: Pronouns: She/Her/她
-* :computer: Current project: University of Toronto's Coding Bootcamp - TA
+* :computer: Current project: Learning Java + Full Stack Flex Web Development Teaching Assistant
 * :mortar_board: Educational background: BSc in psychological and health sciences from the University of Toronto under their co-op program
 * :office: Work background: primarily in the mental health, non-profit, and healthcare sectors
 * :memo: Looking for: opportunities to work on new and challenging projects - learning by doing has taught me the fastest
@@ -31,10 +31,11 @@ Full-Stack Developer | Medical Laboratory Assistant | Mathematics Instructor
    <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" **alt="Handlebars" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
 </div>
 
-## My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TOVTC&theme=dark&background=000000)](https://git.io/streak-stats)</br>
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOVTC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Written with help from [this](https://www.sitepoint.com/github-profile-readme/) article.
