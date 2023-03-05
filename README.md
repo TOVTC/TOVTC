@@ -6,8 +6,8 @@
 Full-Stack Developer | Mathematics Instructor | Former Healthcare Worker
 
 * :stuck_out_tongue_closed_eyes: Pronouns: She/Her/她
-* :computer: Current project: Learning Java + Full Stack Flex Web Development Teaching Assistant
-* :mortar_board: Educational background: BSc in psychological and health sciences from the University of Toronto under their co-op program
+* :computer: Current project: SCSCBC Continuation Courses (C#, Java) + Full Stack Flex Web Development Teaching Assistant
+* :mortar_board: Educational background: BSc in mental health from the University of Toronto under their co-op program
 * :office: Work background: primarily in the mental health, non-profit, and healthcare sectors
 * :memo: Looking for: opportunities to work on new and challenging projects - learning by doing has taught me the fastest
 * :question: Ask me about: overly convoluted hypotheticals
