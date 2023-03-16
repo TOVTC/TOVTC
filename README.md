@@ -6,7 +6,7 @@
 Full-Stack Developer | Mathematics Instructor | Former Healthcare Worker
 
 * :stuck_out_tongue_closed_eyes: Pronouns: She/Her/她
-* :computer: Current project: SCSCBC Continuation Courses (C#, Java) + Full Stack Flex Web Development Teaching Assistant
+* :computer: Current project: University of Toronto SCSCBC Continuation Courses (C#, Java) + Full Stack Flex Web Development Assistant Instructor
 * :mortar_board: Educational background: BSc in mental health from the University of Toronto under their co-op program
 * :office: Work background: primarily in the mental health, non-profit, and healthcare sectors
 * :memo: Looking for: opportunities to work on new and challenging projects - learning by doing has taught me the fastest
@@ -32,8 +32,8 @@ Full-Stack Developer | Mathematics Instructor | Former Healthcare Worker
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
 </div>
-
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOVTC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
