@@ -3,15 +3,25 @@
 <a href="https://www.linkedin.com/in/veronicataichito/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 ## About Me:
-Full-Stack Developer | Mathematics Instructor | Former Healthcare Worker
+Junior Developer | Instructional Specialist | Mathematics Instructor
 
-* :stuck_out_tongue_closed_eyes: Pronouns: She/Her/她
-* :computer: Current project: University of Toronto SCSCBC Continuation Courses (C#, Java) + Full Stack Flex Web Development Assistant Instructor
-* :mortar_board: Educational background: BSc in mental health from the University of Toronto under their co-op program
-* :office: Work background: primarily in the mental health, non-profit, and healthcare sectors
-* :memo: Looking for: opportunities to work on new and challenging projects - learning by doing has taught me the fastest
-* :question: Ask me about: overly convoluted hypotheticals
-* :sunflower: Fun fact: I like sunflowers, nerd stuff, and punk music (but I'll pretty much listen to anything)
+TOVTC here, full stack junior developer, instructional specialist, and mathematics instructor. My original field of study was mental health, and I've worked in the mental health, non-profit, and healthcare sectors throughout and since my undergraduate degree, working everything from social work to primary care clinics to addictions research to medical laboratory. I've also been a mathematics instructor since 2014. I initially got into coding during my final semester at university when I took a neuroeconomics course (think neuroscience of decision making) that required statistical analysis using R - and that was pretty fun.
+
+
+After graduating University of Toronto's School of Continuing Studies Coding Bootcamp in 2022, I became a TA for their web development program and a junior developer at i3 Solutions Inc in healthcare technologies shortly after - something of a dream job, considering my prior work and educational backgrounds.
+
+* 😝 Pronouns: She/Her/她
+* 🇭🇰  Bilingual: English, Cantonese (廣東話)
+* 💻 Current coding projects: healthcare technologies with i3, web development with EdX x UofT
+* 🎓 Prior educational background: Honours BSc with distinction in mental health from the University of Toronto under their co-op program
+* 🏢 Prior work background: primarily in the mental health, non-profit, and healthcare sectors
+* ❓ Ask me about: overly convoluted hypotheticals
+* 🌵 Self development: maintaining a consistent 6x a week gym schedule, keeping all my non-cacti houseplants alive, and improving my Chinese reading and writing skills
+* 💥 Fun fact from my youth: I have an Industry Canada aeronautical radio license and was a trained RCAC ceremonial drill instructor on the rifle drill team until I retired from the program in 2014 at the rank of Warrant Officer 2nd Class
+* 🌻 Relevant fun fact: I like sunflowers, nerd stuff, and punk music (but I'll pretty much listen to anything - from 1950's jazz to Cantonese nu-metal)
+
+
+Outside of coding, teaching, and healthcare, I also have a passion for narrative and English literature and was nominated for University of Toronto's English Department Essay Prize by my professor in 2019. The essay in question was a think-piece on the interrogation of real-world accessibility in Fraction and Aja's Hawkeye (2012) (but I'm also into other nerd stuff, not just comics).
 
 ## Languages and Tools:
 <div>
